@@ -1,0 +1,24 @@
+.nav{
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 10px;
+  display: flex;
+  font-size: 30px;
+  font-weight: 700;
+  justify-content: space-between;
+  border:1px solid grey;
+  padding: 20px;
+  font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Noto Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.cart-button{
+width: 70px;
+height: 30px;
+}
+.container{
+  display: flex;
+  
+}
